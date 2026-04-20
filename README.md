@@ -1,3 +1,4 @@
+[简体中文](README.zh-CN.md)
 # graphify-fit-Qwen-Coder
 
 This repository is a **Qwen Code-focused enhancement fork** of [graphify](https://github.com/safishamsi/graphify).
