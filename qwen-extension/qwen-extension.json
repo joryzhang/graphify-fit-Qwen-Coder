@@ -1,0 +1,7 @@
+{
+  "name": "graphify-qwen-extension",
+  "version": "0.1.0",
+  "contextFileName": "QWEN.md",
+  "commands": "commands",
+  "agents": "agents"
+}
